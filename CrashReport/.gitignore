@@ -1,0 +1,12 @@
+.DS_Store
+Assembly-CSharp*
+Assembly-UnityScript*
+Builds/
+Library/
+obj/
+Temp/
+*.sln
+*.sln.meta
+*.userprefs
+
+
