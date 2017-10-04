@@ -309,6 +309,7 @@ static void __attribute__((noinline)) real_NXcrash(void)
 }
 
 + (void)crashSwift {
+    [[[CrashFunctionSwiftWrapper alloc] init] crashSwift];
 }
 
 @end

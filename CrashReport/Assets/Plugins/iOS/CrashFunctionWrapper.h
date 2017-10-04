@@ -33,6 +33,7 @@
  */
 
 #import <Foundation/Foundation.h>
+// #import "<ModuleName>-Swift.h"
 
 @interface CrashFunctionWrapper : NSObject
 
